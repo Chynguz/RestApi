@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     
     'quickstart',
     'rest_framework',
+    'drf_yasg',
+
 ]
 
 MIDDLEWARE = [
